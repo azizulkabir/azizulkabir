@@ -1,5 +1,4 @@
 ### Hi there 👋, I'm Azizul Kabir Lovlu
-#### I am GitHub Readme Generator's creator
 ![I am GitHub Readme Generator's creator](https://avatars.githubusercontent.com/u/70339620?v=4)
 
 Working on front end development with MERN stack. Currently learning new technologies to become more expert on development.
