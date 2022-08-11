@@ -12,7 +12,7 @@ Skills: HTML5, CSS3, Bootstrap, TailwindCSS, JavaScripts, React, Redux, ExpressJ
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=azizulkabir&show_icons=true)  
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>]
+[<img src='[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height=](https://fiverr-res.cloudinary.com/images/t_medium7,q_auto,f_auto,q_auto,f_auto/gigs/268739130/original/37b5002aac70328dbc98f3f131892aa99ae72ac2/develop-mern-stack-web-application-by-reactjs-nodejs.png)'30'>]
 (https://github.com/azizulkabir)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/redowan2)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/redowan__//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@LavluBcse)  
 
 
