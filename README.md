@@ -1,13 +1,13 @@
 ### Hi I'm Azizul Kabir Lovlu 👋, 
 ![](https://avatars.githubusercontent.com/u/70339620?v=4)
 
-Working on front end development with MERN stack. Currently learning new technologies to become more expert on development.
+Azizul Kabir Lovlu, Data Analyst with a passion for transforming data into actionable insights. Skilled in data cleaning, analysis and visualization using Python and SQL. Committed to finding the most efficient and effective solutions to deliver business value. Always eager to learn and improve in a dynamic and fast-paced environment. Check out my projects on GitHub and connect with me to discuss data-driven solutions."
 
-Skills: HTML5, CSS3, Bootstrap, TailwindCSS, JavaScripts, React, Redux, ExpressJs, MongoDB
+Skills: Pyhton, Web Scrapping, SQL, Excel, PowerBI.
 
-- 🔭 I’m currently working on Front End Web Development 
-- 🌱 I’m currently learning Redux 
-- 💬 Ask me about any solution of Front End Development 
+- 🔭 I’m currently looking for Data analyst work opportunity 
+- 🌱 I’m currently learning Data Engineering 
+- 💬 Ask me about any solution of Data visualization 
 - ⚡ Fun fact: I spend almost 10 hours on programming 
 
 
